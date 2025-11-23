@@ -6,3 +6,4 @@ langchain-openai
 python-dotenv
 mysql-connector-python
 sqlalchemy
+streamlit
